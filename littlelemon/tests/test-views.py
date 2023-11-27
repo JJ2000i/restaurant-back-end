@@ -1,3 +1,3 @@
 from django.test import TestCase
+from restaurant import views
 
-# Create your tests here.
